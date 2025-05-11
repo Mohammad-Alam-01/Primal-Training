@@ -23,7 +23,7 @@ const Home = () => {
             <div className='h-50'>
                 <p className=' px-3 py-5 '>Train like an athlete with top-tier equipment and expert programming. Whether you're building muscle or breaking PRs, we help you push past limits.</p>
                 
-                <Link to="/about" ><h1 className='font-mono bg-indigo-400 text-center  mx-3    py-2 rounded-md cursor-pointer hover:bg-black text-white transition-all uppercase'>about us</h1></Link>
+                <Link to="/about" ><h1 className='font-mono bg-indigo-400 text-center  mx-3  mb-7  py-2 rounded-md cursor-pointer hover:bg-black text-white transition-all uppercase'>about us</h1></Link>
         
             </div>
         </div>
